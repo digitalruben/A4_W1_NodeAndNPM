@@ -29,7 +29,6 @@
     "underscore": "^1.12.1"
   },
   "devDependencies": {
-    "gulp-sass": "^4.1.0",
     "nodemon": "^2.0.7"
   }
 }
